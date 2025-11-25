@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1764055984|1307655164';
+const CACHE_VERSION = '1764078993|21492621557';
 /** @type {string} */
 const CACHE_PREFIX = 'ChickenSkater-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
